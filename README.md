@@ -5,4 +5,4 @@ Edited qb-vehiclekeys using ps-ui for lockpick
 ps-ui lockpick minigame
 
 ## Dependencies ##
-ps-ui - https://github.com/Project-Sloth/ps-ui
+[ps-ui](https://github.com/Project-Sloth/ps-ui)
